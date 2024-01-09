@@ -1,4 +1,4 @@
-# Bagels_Game
+#Bagels_Game
 import random
 
 def generate_secret_number():
